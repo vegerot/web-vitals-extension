@@ -21,6 +21,6 @@
     "eslint-config-google": "^0.14.0"
   },
   "dependencies": {
-    "web-vitals": "4.2.3-soft-navs"
+    "web-vitals": "5.1.0-soft-navs-2"
   }
 }
