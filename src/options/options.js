@@ -41,6 +41,7 @@ function restoreOptions() {
     preferPhoneField: false,
     noBadgeAnimation: false,
     hideEOLNotice: false,
+    reportSoftNavs: false,
   }, ({enableOverlay, debug, userTiming, preferPhoneField, noBadgeAnimation, hideEOLNotice, reportSoftNavs}) => {
     optionsOverlayNode.checked = enableOverlay;
     optionsConsoleLoggingNode.checked = debug;
